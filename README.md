@@ -12,3 +12,5 @@ raznorabochiy.arb
 raznorabochiy.bnb
 0xE8eAbec7CE9e8Bf78A766E8556E542BC2C9446ae
 ```
+UPD от Tawer95: добавил масс-ченджер для работяг.
+Инструкцию по работе допишу позже.
